@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #include <string.h>
 
+/*
+    Author: Nurullah Türkoğlu
+    All content created by Nurullah Türkoğlu
+ */
+
 #define MAX_SIZE 10
 
 typedef struct{

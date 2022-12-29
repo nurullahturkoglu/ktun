@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #include <math.h>
 
+/*
+    Author: Nurullah Türkoğlu
+    All content created by Nurullah Türkoğlu
+ */
+
 struct Dugum {
  	int derece;
 	int katSayi;

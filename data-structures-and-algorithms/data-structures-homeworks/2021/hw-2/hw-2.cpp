@@ -3,6 +3,11 @@
 #include <limits.h>
 #include <cstring>
 
+/*
+    Author: Nurullah Türkoğlu
+    All content created by Nurullah Türkoğlu
+ */
+
 #define N 25
 int diziSayi[N];
 char diziKarakter[N];

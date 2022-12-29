@@ -5,6 +5,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/*
+    Author: Nurullah Türkoğlu
+    All content created by Nurullah Türkoğlu
+ */
+
 public class algOdev {
 
     int[][] graph2D;

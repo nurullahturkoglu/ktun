@@ -1,4 +1,7 @@
-
+/*
+    Author: Nurullah Türkoğlu
+    All content created by Nurullah Türkoğlu
+ */
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
